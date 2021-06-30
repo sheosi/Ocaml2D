@@ -1,0 +1,86 @@
+# Keep this file in your GIT repo to help drom track generated files
+
+# hash of toml configuration files
+# used for generation of all files
+d87b3a478a1b5a69b8866cbe70f5e022:.
+# end context for .
+
+# begin context for .gitignore
+# file .gitignore
+4fcaad18fc99bfa4295748ed760cb4dd:.gitignore
+# end context for .gitignore
+
+# begin context for CHANGES.md
+# file CHANGES.md
+e3dc1d3bd09dd1e05531de5439a351a6:CHANGES.md
+# end context for CHANGES.md
+
+# begin context for LICENSE.md
+# file LICENSE.md
+0d9bf5a7f99369c01bd832b2c35fb337:LICENSE.md
+# end context for LICENSE.md
+
+# begin context for Makefile
+# file Makefile
+5b7d008f05ac77a8123b3b446d07dc88:Makefile
+# end context for Makefile
+
+# begin context for Ocaml2D.opam
+# file Ocaml2D.opam
+faf926b9f14cb1eca3ca8572ee128222:Ocaml2D.opam
+# end context for Ocaml2D.opam
+
+# begin context for README.md
+# file README.md
+7bca531f9c076b6e7cc6a23469806176:README.md
+# end context for README.md
+
+# begin context for drom.toml
+# file drom.toml
+317758a699022f65f2a49695113c3f46:drom.toml
+# end context for drom.toml
+
+# begin context for dune
+# file dune
+0d57afa9756f983af2551804954af609:dune
+# end context for dune
+
+# begin context for dune-project
+# file dune-project
+29597f2999d524e574d54d18a7e11637:dune-project
+# end context for dune-project
+
+# begin context for scripts/after.sh
+# file scripts/after.sh
+1112fbe7067fce342365a25613b5659d:scripts/after.sh
+# end context for scripts/after.sh
+
+# begin context for scripts/before.sh
+# file scripts/before.sh
+ae050b3099ac0b43d7c7f4295f6b2319:scripts/before.sh
+# end context for scripts/before.sh
+
+# begin context for scripts/copy-bin.sh
+# file scripts/copy-bin.sh
+bb3a9d286f0dc64021db4194427263ee:scripts/copy-bin.sh
+# end context for scripts/copy-bin.sh
+
+# begin context for src/Ocaml2D/dune
+# file src/Ocaml2D/dune
+f228acb99d37898eafee7bef576822d1:src/Ocaml2D/dune
+# end context for src/Ocaml2D/dune
+
+# begin context for src/Ocaml2D/main.ml
+# file src/Ocaml2D/main.ml
+e53b60ff6ce5c4ce8fe83406040d5c9f:src/Ocaml2D/main.ml
+# end context for src/Ocaml2D/main.ml
+
+# begin context for src/Ocaml2D/package.toml
+# file src/Ocaml2D/package.toml
+171b9bb8ede14a12111b42a37d073b6c:src/Ocaml2D/package.toml
+# end context for src/Ocaml2D/package.toml
+
+# begin context for src/Ocaml2D/version.mlt
+# file src/Ocaml2D/version.mlt
+e5152b4b8b0489050db1e38339e55a7e:src/Ocaml2D/version.mlt
+# end context for src/Ocaml2D/version.mlt

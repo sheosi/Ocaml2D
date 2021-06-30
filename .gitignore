@@ -1,0 +1,11 @@
+/Ocaml2D
+*~
+_build
+.merlin
+.vscode
+/_drom
+/_opam
+/_build
+
+
+
